@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **mohantychinmaya199@gmail.com** For Collaboration/Project 
 - 🔭 **I’m currently working on:** Field of Ai Engineer
 - 🌱 **I’m currently learning:** Generative Ai
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** E=mail= mohantychinmaya199@gmail.com   ,   LinkedIn=www.linkedin.com/in/chinmayamohanty
+- 📫 **How to reach me:** E-mail= mohantychinmaya199@gmail.com   ,   LinkedIn=www.linkedin.com/in/chinmayamohanty
 - 😄 **Pronouns:** Chinmaya
 - ⚡ **Fun fact:** i don’t chase AI trends — i build the trend.
 
