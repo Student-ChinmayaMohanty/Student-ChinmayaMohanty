@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Chinmaya Mohanty
-**A passionate Ai Engineer || DevOps Engineer || Kafka Admin from India**
+**Passionate AI Engineer || Lifelong Learner || Turning idea into Intelligent Impact 🇮🇳**
 
 Email Me 👉 ✉️ **mohantychinmaya199@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
