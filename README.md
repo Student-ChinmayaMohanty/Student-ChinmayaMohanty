@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **mohantychinmaya199@gmail.com** For Collaboration/Project 
 - 😄 **Pronouns:** Chinmaya
 - ⚡ **Fun fact:** i don’t chase AI trends — i build the trend.
 
-## 🔗 I am a Ai Engineer. 
+## 🔗 I am a Ai Engineer.😊😊 
 
 <!-- Snake Game Repo View -->
 
