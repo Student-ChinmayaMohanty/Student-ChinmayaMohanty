@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Chinmaya Mohanty
-**Passionate AI Engineer || Lifelong Learner || Turning idea into Intelligent Impact 🇮🇳**
+**Passionate about AI Engineer || Turning idea into Intelligent Impact 🇮🇳**
 
 Email Me 👉 ✉️ **mohantychinmaya199@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
@@ -10,7 +10,7 @@ Email Me 👉 ✉️ **mohantychinmaya199@gmail.com** For Collaboration/Project 
 - 😄 **Pronouns:** Chinmaya
 - ⚡ **Fun fact:** i don’t chase AI trends — i build the trend.
 
-## 🔗 I am a Ai Engineer. 😊😊
+## 🔗 I am a Ai Engineer. 
 
 <!-- Snake Game Repo View -->
 
