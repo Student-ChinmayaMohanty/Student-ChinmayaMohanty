@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Chinmaya Mohanty
-**Passionate about AI Engineer || Turning idea into Intelligent Impact In**
+# 💫 Hey 👋, I'm Chinmaya Mohanty
+**Aspiring AI Engineer || Building real world AI Solution**
 
 Email Me 👉 ✉️ **mohantychinmaya199@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
