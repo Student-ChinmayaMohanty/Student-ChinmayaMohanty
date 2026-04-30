@@ -8,6 +8,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress...;Designing+systems+that+learn,+adapt,+and+decide.;Training+models.+Solving+problems.+Shipping+intelligence." />
 </p>
+
+
+
 ---
 
 <table>
