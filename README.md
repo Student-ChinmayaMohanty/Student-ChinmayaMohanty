@@ -59,15 +59,15 @@
 
 ---
 
-### 📊 GitHub Stats (Simple)
+### 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=student-chinmayamohanty&show_icons=true" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api?username=student-chinmayamohanty&show_icons=true&theme=tokyonight" width="32%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=student-chinmayamohanty" width="32%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=student-chinmayamohanty&theme=tokyonight" width="32%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-chinmayamohanty&layout=compact" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-chinmayamohanty&layout=compact&theme=tokyonight" width="32%" />
 
 </p>
 
