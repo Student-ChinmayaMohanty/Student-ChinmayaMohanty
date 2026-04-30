@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=AI+Engineer+in+Progress...;Building+Real+AI+Projects;Machine+Learning+%7C+Deep+Learning;Agentic+AI+Explorer" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=student-chinmayamohanty&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 <table>
