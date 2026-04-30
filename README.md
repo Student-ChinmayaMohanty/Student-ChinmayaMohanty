@@ -2,11 +2,11 @@
 <h3 align="center">🚀 Aspiring AI Engineer | Building Real AI Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=AI+Engineer+in+Progress...;Building+Real+AI+Projects;Machine+Learning+%7C+Deep+Learning;Agentic+AI+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=AI+Engineer+in+Progress...;Building+Real+AI+Projects;Machine+Learning+%7C+Deep+Learning;Agentic+AI+Explorer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=student-chinmayamohanty&label=Profile%20views&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=student-chinmayamohanty&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/Student-ChinmayaMohanty/Student-ChinmayaMohanty/main/Coding%20Artificial%20Intelligence%20GIF%20by%20Pudgy%20Penguins.gif" width="300"/>
+<img src="https://raw.githubusercontent.com/Student-ChinmayaMohanty/Student-ChinmayaMohanty/main/Coding%20Artificial%20Intelligence%20GIF%20by%20Pudgy%20Penguins.gif" width="320"/>
 
 </td>
 
@@ -53,11 +53,11 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=student-chinmayamohanty&show_icons=true" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api?username=student-chinmayamohanty&show_icons=true&theme=tokyonight" width="32%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=student-chinmayamohanty" width="32%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=student-chinmayamohanty&theme=tokyonight" width="32%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-chinmayamohanty&layout=compact" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-chinmayamohanty&layout=compact&theme=tokyonight" width="32%" />
 
 </p>
 
@@ -66,7 +66,7 @@
 ### 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=student-chinmayamohanty&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=student-chinmayamohanty&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
