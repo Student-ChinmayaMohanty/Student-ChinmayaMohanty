@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm CHINMAYA MOHANTY</h1>
 <h3 align="center">🚀 Aspiring AI Engineer | Building Real AI Projects</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=student-chinmayamohanty&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ### 🧠 About Me
