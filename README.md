@@ -40,7 +40,7 @@
 
 <td width="40%" align="center">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBlOWEzaWYwbTNlNTRlejN6enh3MDB4eDVqamthMHZ0MXBzNzN6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" width="320" />
+<img src="https://raw.githubusercontent.com/Student-ChinmayaMohanty/Student-ChinmayaMohanty/main/Coding%20Artificial%20Intelligence%20GIF%20by%20Pudgy%20Penguins.gif" width="320"/>
 
 </td>
 
