@@ -71,18 +71,3 @@
 
 ---
 
-### 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=student-chinmayamohanty&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-### 💡 Quote
-
-<p align="center">
-
-> **"Not following the trend — building it."**
-
-</p>
