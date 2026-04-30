@@ -55,6 +55,14 @@
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -66,14 +74,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-chinmayamohanty&layout=compact&theme=tokyonight" width="32%" />
 
 </p>
-
----
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
