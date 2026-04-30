@@ -9,10 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=AI+Engineer+in+Progress...;Building+Real+AI+Projects;Machine+Learning+%7C+Deep+Learning;Agentic+AI+Explorer" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=student-chinmayamohanty&label=Profile%20views&style=flat" />
-</p>
-
 ---
 
 <table>
@@ -69,14 +65,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-chinmayamohanty&layout=compact&theme=tokyonight" width="32%" />
 
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=student-chinmayamohanty&no-frame=true&row=1&column=6" />
 </p>
 
 ---
