@@ -13,10 +13,10 @@
 <td width="60%" valign="top">
 
 ### 🧠 About Me
-- 🌱 Learning **Agentic AI**
+- 🌱 I'm currently Learning **Agentic AI**
 - 💬 Ask me about **Machine Learning & Deep Learning**
-- ⚡ Sleep is optional ☕
-- 📫 **mohantychinmaya199@gmail.com**
+- 📫 How to reach me **mohantychinmaya199@gmail.com**
+- ⚡Fun fact Sleep is optional ☕
 
 ---
 
