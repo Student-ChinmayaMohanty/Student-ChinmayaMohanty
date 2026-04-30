@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm CHINMAYA MOHANTY</h1>
 <h3 align="center">🚀 Aspiring AI Engineer | Building Real AI Projects</h3>
-(img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBlOWEzaWYwbTNlNTRlejN6enh3MDB4eDVqamthMHZ0MXBzNzN6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif")
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXBlOWEzaWYwbTNlNTRlejN6enh3MDB4eDVqamthMHZ0MXBzNzN6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" />
 ---
 
 ### 🧠 About Me
