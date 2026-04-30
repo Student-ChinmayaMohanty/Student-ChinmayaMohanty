@@ -28,6 +28,7 @@
 <a href="mailto:mohantychinmaya199@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
 </a>
+
 ---
 
 ### ⚙️ Tech Stack
