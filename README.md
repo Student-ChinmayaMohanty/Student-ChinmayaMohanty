@@ -69,12 +69,14 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=student-chinmayamohanty&show_icons=true&theme=tokyonight" width="32%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=student-chinmayamohanty&show_icons=true&theme=radical" width="32%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=student-chinmayamohanty&theme=tokyonight" width="32%" />
+  <img src="https://streak-stats.demolab.com?user=student-chinmayamohanty&theme=radical" width="32%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-chinmayamohanty&layout=compact&theme=tokyonight" width="32%" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-chinmayamohanty&layout=compact&theme=radical" width="32%" />
+  
+</p>
 </p>
 
 ---
