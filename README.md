@@ -67,16 +67,13 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=student-chinmayamohanty&show_icons=true&theme=tokyonight&hide_border=true" width="32%" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=student-chinmayamohanty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img src="https://streak-stats.demolab.com?user=student-chinmayamohanty&theme=tokyonight&hide_border=true" width="32%" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-chinmayamohanty&layout=compact&langs_count=8&theme=tokyonight"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=student-chinmayamohanty&theme=tokyonight"/>
-
-</div>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-chinmayamohanty&layout=compact&theme=tokyonight&hide_border=true" width="32%" />
+</p>
 ---
 
 ### 💡 Quote
