@@ -67,17 +67,15 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=student-chinmayamohanty&show_icons=true&theme=radical" width="32%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=student-chinmayamohanty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img src="https://streak-stats.demolab.com?user=student-chinmayamohanty&theme=radical" width="32%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-chinmayamohanty&layout=compact&langs_count=8&theme=tokyonight"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-chinmayamohanty&layout=compact&theme=radical" width="32%" />
-  
-</p>
-</p>
+<img height="180em" src="https://streak-stats.demolab.com?user=student-chinmayamohanty&theme=tokyonight"/>
+
+</div>
 
 ---
 
