@@ -64,14 +64,6 @@
 </div>
 
 ---
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Student-ChinmayaMohanty&show_icons=true" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Student-ChinmayaMohanty" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Student-ChinmayaMohanty&layout=compact" />
-</p>
 
 ### 💡 Quote
 
