@@ -87,6 +87,9 @@
 <a href="https://portfolio-for-me-pink.vercel.app/">
   <img src="https://img.shields.io/badge/🚀_Live_Portfolio-Visit_Now-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
+<br/><br/>
+
 > **Building intelligent systems that learn, adapt, and create impact.**
 
 <a href="https://portfolio-for-me-pink.vercel.app/">
