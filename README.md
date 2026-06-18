@@ -72,3 +72,45 @@
 > **"Not following the trend — building it."**
 
 </p>
+
+```md
+---
+
+## 🌐 Portfolio Website
+
+<div align="center">
+
+<a href="https://your-portfolio-url.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_LIVE_PORTFOLIO-Visit_Now-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://github.com/Student-ChinmayaMohanty/Student-ChinmayaMohanty/blob/main/portfolio-preview.png?raw=true" width="100%" alt="Portfolio Preview"/>
+
+<br/>
+
+### 🌌 Interactive AI Portfolio
+
+A modern portfolio showcasing my journey in **Artificial Intelligence, Machine Learning, Deep Learning, and Data Science** through immersive experiences and real-world projects.
+
+<table>
+<tr>
+<td align="center">⚡ Smooth Animations</td>
+<td align="center">🌍 3D Experiences</td>
+<td align="center">🤖 AI Projects</td>
+<td align="center">📊 Data Science</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://your-portfolio-url.vercel.app">
+  <img src="https://img.shields.io/badge/View_Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
+
+---
+```
+
