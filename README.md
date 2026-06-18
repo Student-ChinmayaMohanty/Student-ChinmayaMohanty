@@ -102,8 +102,8 @@
 
 <br>
 
-<a href="https://your-portfolio-url.vercel.app">
-  <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="https://portfolio-for-me-pink.vercel.app/">
+  <img src="https://github.com/Student-ChinmayaMohanty/Student-ChinmayaMohanty/blob/main/Screenshot%202026-06-18%20135755.png?raw=true" />
 </a>
 
 </div>
