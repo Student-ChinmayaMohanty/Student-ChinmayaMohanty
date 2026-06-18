@@ -87,12 +87,6 @@
   <img src="https://img.shields.io/badge/🚀_LIVE_PORTFOLIO-Visit_Now-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<br/><br/>
-
-<img src="https://github.com/Student-ChinmayaMohanty/Student-ChinmayaMohanty/blob/main/portfolio-preview.png?raw=true" width="100%" alt="Portfolio Preview"/>
-
-<br/>
-
 ### 🌌 Interactive AI Portfolio
 
 A modern portfolio showcasing my journey in **Artificial Intelligence, Machine Learning, Deep Learning, and Data Science** through immersive experiences and real-world projects.
