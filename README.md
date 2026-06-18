@@ -77,35 +77,54 @@
 ```
 
 
+```md
 ---
 
-## 🌐 Portfolio Website
+# 🌌 Interactive 3D Portfolio
 
 <div align="center">
 
-<a href="https://portfolio-for-me-pink.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_LIVE_PORTFOLIO-Visit_Now-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://your-portfolio-url.vercel.app">
+  <img src="https://img.shields.io/badge/🚀_Launch_Experience-Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-### 🌌 Interactive AI Portfolio
+<br/><br/>
 
-A modern portfolio showcasing my journey in **Artificial Intelligence, Machine Learning, Deep Learning, and Data Science** through immersive experiences and real-world projects.
-
-<table>
-<tr>
-<td align="center">⚡ Smooth Animations</td>
-<td align="center">🌍 3D Experiences</td>
-<td align="center">🤖 AI Projects</td>
-<td align="center">📊 Data Science</td>
-</tr>
-</table>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VhYmV4MHF4dXdjN2x0MHBsZDV0dG9ydWh1dG1jN2JmZ3Y4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" />
 
 <br/>
 
+### 🌠 Explore My Digital Universe
+
+A cinematic 3D portfolio where skills orbit like planets, projects become worlds, and artificial intelligence powers every interaction.
+
+---
+
+### ✨ Experience Includes
+
+🌍 Interactive Solar System Navigation
+
+🚀 Smooth Camera Fly-Through Animations
+
+🪐 Floating AI & ML Skill Planets
+
+⚡ Real-Time Particle Effects
+
+🌌 Immersive Space Environment
+
+🤖 AI Project Showcase
+
+📈 Data Science Journey Timeline
+
+🎯 Premium Scroll-Based Storytelling
+
+---
+
 <a href="https://your-portfolio-url.vercel.app">
-  <img src="https://github.com/Student-ChinmayaMohanty/Student-ChinmayaMohanty/blob/main/Screenshot%202026-06-18%20135755.png?raw=true" />
+  <img src="https://img.shields.io/badge/Enter_The_Universe-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 </div>
 
 ---
+```
