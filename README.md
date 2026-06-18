@@ -78,6 +78,58 @@
 
 
 ```md
+```md
+---
+
+# 🌌 Interactive 3D Portfolio
+
+<div align="center">
+
+<a href="https://your-portfolio-url.vercel.app">
+  <img src="https://img.shields.io/badge/🚀_Launch_Experience-Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VhYmV4MHF4dXdjN2x0MHBsZDV0dG9ydWh1dG1jN2JmZ3Y4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" />
+
+<br/>
+
+### 🌠 Explore My Digital Universe
+
+A cinematic 3D portfolio where skills orbit like planets, projects become worlds, and artificial intelligence powers every interaction.
+
+---
+
+### ✨ Experience Includes
+
+🌍 Interactive Solar System Navigation
+
+🚀 Smooth Camera Fly-Through Animations
+
+🪐 Floating AI & ML Skill Planets
+
+⚡ Real-Time Particle Effects
+
+🌌 Immersive Space Environment
+
+🤖 AI Project Showcase
+
+📈 Data Science Journey Timeline
+
+🎯 Premium Scroll-Based Storytelling
+
+---
+
+<a href="https://your-portfolio-url.vercel.app">
+  <img src="https://img.shields.io/badge/Enter_The_Universe-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</div>
+
+---
+```
+
 ---
 
 # 🌌 Interactive 3D Portfolio
