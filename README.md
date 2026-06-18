@@ -83,7 +83,7 @@
 
 <div align="center">
 
-<a href="https://your-portfolio-url.vercel.app" target="_blank">
+<a href="https://portfolio-for-me-pink.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🚀_LIVE_PORTFOLIO-Visit_Now-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
